@@ -1,0 +1,23 @@
+development:
+  facebook:
+      key: '1834464590123904'
+      secret: 'f3763707ad9411ac38ab1b58e2b6063c'
+  github:
+      key: '01d73321a7493f85807f'
+      secret: 'd2cdb6e06b9a79f8ab0e4d3be822340d875a2306'
+
+test:
+  facebook:
+      key: '1834464590123904'
+      secret: 'f3763707ad9411ac38ab1b58e2b6063c'
+  github:
+      key: '01d73321a7493f85807f'
+      secret: 'd2cdb6e06b9a79f8ab0e4d3be822340d875a2306'
+
+production:
+  facebook:
+      key: '1834464590123904'
+      secret: 'f3763707ad9411ac38ab1b58e2b6063c'
+  github:
+      key: '01d73321a7493f85807f'
+      secret: 'd2cdb6e06b9a79f8ab0e4d3be822340d875a2306'
